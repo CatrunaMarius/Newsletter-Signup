@@ -1,0 +1,8 @@
+Descriere
+-Cum foloseste servarul nostru css/imaginile
+Ex:app.use('*/css',express.static('public/css'));
+- post
+1. aici se intampla toata functinalitatea subscrierei catre newsletter
+pt mai mute detali de folosier gasim pe mailchimp.com/developer
+2. implementare unei pagini separate pt diferite statusuri ale pagini
+Ex: success in cazul in care a reusi si se aboneze si fail in cazul in care nu a reusit  

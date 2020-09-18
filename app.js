@@ -72,9 +72,11 @@ app.listen(port, function(){
 })
 
 
-
+//https://mailchimp.com/  
 // API Key
 // 29941f2a7c7fa60648e72406e2f3ebb9-us17
 
 // List ID
 // ce7a71864f
+
+//cloud ->heroku 
